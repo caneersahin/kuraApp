@@ -1,5 +1,7 @@
 # Kura App
 
+http://www.canersahin.net/kura üzerinden çalışır haline ulaşabilirsiniz. Bol şanslar :)
+
 Kura App, ihtiyaç üzerine yazılmış basit kullanımlı bir kura programıdır. Bu programı kullanarak katılımcıların isimlerini ekleyebilir ve belirlediğiniz sayıda rastgele seçim yapabilirsiniz.
 
 ## Nasıl Çalışır?
